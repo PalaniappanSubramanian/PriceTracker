@@ -1,10 +1,10 @@
-#Price Tracker#
+#Price Tracker
 
 Ever thought when the price of that one product which you wanted will fall under your budget? 
 
 Here is ***PriceTracker***! A simple Python App to track the price of a specified product and send an email when the price reaches the target. 
 
-##Instructions##
+##Instructions
 **In Tracker.Py**
 1. Copy and paste the product link(amazon) in `URL`.
 2. Set your target price in the if condition `if(price_converted <= target):`.
@@ -16,12 +16,12 @@ Here is ***PriceTracker***! A simple Python App to track the price of a specifie
 3. Enter the recievers email address and your email address(sender).
 - Use the same email address in both the fields if you want to email yourself on the product reaching the target price.
 
-##Execution##
+##Execution
 1. Clone this repository to your machine.
 2. Navigate to this Folder `PriceTracker`
 3. `python Tracer.py`
 
-##Credits##
+##Acknowledgment
 - [Simo Edwin](https://github.com/developedbyed/)
 
 ---
