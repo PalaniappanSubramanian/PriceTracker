@@ -33,7 +33,7 @@ def check_price():
 
     print(price_converted)
 
-    if(price_converted < 1000.0):
+    if(price_converted <= 1000.0):
        
         EmailSender.email_anuppu()
         
