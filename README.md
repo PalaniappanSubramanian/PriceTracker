@@ -19,7 +19,7 @@ Here is ***PriceTracker***! A simple Python App to track the price of a specifie
 ## Execution
 1. Clone this repository to your machine.
 2. Navigate to this Folder `PriceTracker`
-3. `python Tracer.py`
+3. `python Tracker.py`
 
 ## Acknowledgment
 - [Simo Edwin](https://github.com/developedbyed/)
